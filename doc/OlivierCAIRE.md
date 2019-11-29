@@ -8,4 +8,4 @@ Le 8 novembre 2019 :
 
 Le 21 novembre 2019 :
 
--Création du GANTT avec Evan, mise en place du planning
+-Création du GANTT avec Evan,et mise en place du calendrier du projet.
