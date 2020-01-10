@@ -8,3 +8,7 @@
 
 13/12/19
 - Programmation et tests sur le CCS811
+
+10/01/20
+- Programmation du CCS811 continué
+- 
