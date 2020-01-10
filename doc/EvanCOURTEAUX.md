@@ -5,3 +5,6 @@
 
 29/11/19
 - Diagramme de Gantt
+
+13/12/19
+- Programmation et tests sur le CCS811
