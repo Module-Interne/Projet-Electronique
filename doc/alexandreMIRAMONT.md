@@ -6,3 +6,5 @@
 
 10/01/20 : étude du module rfm95 et prise en main de eagle desktop, téléchargement et utilisation de la librairie du module rfm95
 
+17/01/20 : Câblage des modules sur la plaque de test.
+
