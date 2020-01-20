@@ -8,3 +8,5 @@
 
 17/01/20 : Câblage des modules sur la plaque de test.
 
+20/01/20 : Câblage des modules sur la plaque de test + réalisation du schéma électronique.
+
