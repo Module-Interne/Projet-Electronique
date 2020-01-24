@@ -12,4 +12,20 @@ Le 21 novembre 2019 :
 
 Le 13 decembre 2019 :
 
--Découverte d'Eagle, collecte de données concernant les modules ( caractéristiques,taille,programmation,adaptation egle,etc).(ADMP401).
+- Découverte d'Eagle, collecte de données concernant les modules ( caractéristiques,taille,programmation,adaptation eagle,etc).(ADMP401).
+
+Le 10 janvier 2020 : 
+
+- Etude des modules
+
+Le 17 janvier 2020 :
+
+- Câblage des modules avec Alexandre sur la plaque de test.
+
+Le 20 janvier 2020 : 
+
+- Fin du câblage des modules sur la plaque de test + réalisation du schéma électronique sur papier
+
+Le 24 janvier 2020 : 
+
+- Réalisation du schéma électronique sur eagle, comparatifs des modules ADMP et INMP.
