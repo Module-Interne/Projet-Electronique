@@ -29,3 +29,7 @@ Le 20 janvier 2020 :
 Le 24 janvier 2020 : 
 
 - Réalisation du schéma électronique sur eagle, comparatifs des modules ADMP et INMP.
+
+Le 7 fevrier 2020:
+
+- Réalisation du diaporama et du schéma.
