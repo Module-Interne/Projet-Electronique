@@ -32,4 +32,4 @@ Le 24 janvier 2020 :
 
 Le 7 fevrier 2020:
 
-- Réalisation du diaporama et du schéma.
+- Réalisation du diaporama pour la revue de projet.
