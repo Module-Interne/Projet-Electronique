@@ -10,5 +10,18 @@
 - Programmation et tests sur le CCS811
 
 10/01/20
-- Programmation du CCS811 continué
+- Programmation du CCS811 continuée
 - Etude de la doc RFM95_96_97_98W
+
+17/01/20
+- Programmation terminée du CCS811
+- Cablage + étude de la doc du MMA
+
+
+20/01/20
+- Debut coade du MMA
+
+24/01/20
+
+ - Fin codage du MMA
+
