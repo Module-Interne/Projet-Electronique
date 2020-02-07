@@ -1,4 +1,4 @@
-14/11/19 : Rédaction du cahier des charges  et sa mise en page.
+08/11/19 : Rédaction du cahier des charges  et sa mise en page.
 
 29/11/19 : Montage électronique + participation au diagramme de Gantt
 
@@ -9,4 +9,8 @@
 17/01/20 : Câblage des modules sur la plaque de test.
 
 20/01/20 : Câblage des modules sur la plaque de test + réalisation du schéma électronique.
+
+24/01/20 : Câblage des modules sur la plaque de test + réalisation du schéma électronique eagle.
+
+07/02/20 : Préparation de la revue de projet.
 
