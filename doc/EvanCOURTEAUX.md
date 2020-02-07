@@ -19,9 +19,9 @@
 
 
 20/01/20
-- Debut coade du MMA
+- Debut codade du MMA8452Q
 
 24/01/20
 
- - Fin codage du MMA
+ - Fin codage du MMA8452Q
 
