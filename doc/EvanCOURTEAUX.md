@@ -22,6 +22,11 @@
 - Debut codade du MMA8452Q
 
 24/01/20
-
  - Fin codage du MMA8452Q
+ 
+07/02/20
+- Préparation présentation
+
+08/02/20
+- Présentation 
 
