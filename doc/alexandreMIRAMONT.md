@@ -16,3 +16,5 @@
 
 08/02/20 : Revue de projet.
 
+20/03/20 : Terminer le schéma électronique (eagle).
+
