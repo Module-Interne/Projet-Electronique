@@ -41,3 +41,9 @@ Le 8 fevrier 2020:
 Le 14 fevrier 2020:
 
 -Mise à jour de la carte(eagle), ajout et création du capteur de son INMP411.
+
+Le 17 avril 2020:
+-Correction d'un problème venant de la synchronisation.
+
+Le 22 avril 2020:
+-Reprise d'un ancien modèle pour synchroniser le pcb et le sch,reste à bien placer le PCB.
