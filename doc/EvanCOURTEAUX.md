@@ -30,3 +30,13 @@
 08/02/20
 - Présentation 
 
+14/02/20
+- Programmation HDC1080
+
+20/03/20
+- Programmation Micro
+
+17/04/20
+- Programmation micro et Lora
+
+22/04/20
