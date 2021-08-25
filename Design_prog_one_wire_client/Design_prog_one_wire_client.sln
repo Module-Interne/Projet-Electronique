@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design_prog_one_wire_client", "Design_prog_one_wire_client\Design_prog_one_wire_client.csproj", "{531D21EB-382A-459A-80EB-F14B8511BFC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{531D21EB-382A-459A-80EB-F14B8511BFC1}.Debug|x86.ActiveCfg = Debug|x86
+		{531D21EB-382A-459A-80EB-F14B8511BFC1}.Debug|x86.Build.0 = Debug|x86
+		{531D21EB-382A-459A-80EB-F14B8511BFC1}.Release|x86.ActiveCfg = Release|x86
+		{531D21EB-382A-459A-80EB-F14B8511BFC1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

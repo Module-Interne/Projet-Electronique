@@ -1,0 +1,8 @@
+c:\users\amiramont\documents\visual studio 2010\Projects\Design_prog_one_wire_client\Design_prog_one_wire_client\bin\Debug\Design_prog_one_wire_client.exe
+c:\users\amiramont\documents\visual studio 2010\Projects\Design_prog_one_wire_client\Design_prog_one_wire_client\bin\Debug\Design_prog_one_wire_client.pdb
+c:\users\amiramont\documents\visual studio 2010\Projects\Design_prog_one_wire_client\Design_prog_one_wire_client\obj\x86\Debug\Design_prog_one_wire_client.Form1.resources
+c:\users\amiramont\documents\visual studio 2010\Projects\Design_prog_one_wire_client\Design_prog_one_wire_client\obj\x86\Debug\Design_prog_one_wire_client.Properties.Resources.resources
+c:\users\amiramont\documents\visual studio 2010\Projects\Design_prog_one_wire_client\Design_prog_one_wire_client\obj\x86\Debug\Design_prog_one_wire_client.csproj.GenerateResource.Cache
+c:\users\amiramont\documents\visual studio 2010\Projects\Design_prog_one_wire_client\Design_prog_one_wire_client\obj\x86\Debug\Design_prog_one_wire_client.exe
+c:\users\amiramont\documents\visual studio 2010\Projects\Design_prog_one_wire_client\Design_prog_one_wire_client\obj\x86\Debug\Design_prog_one_wire_client.pdb
+C:\Users\amiramont\documents\visual studio 2010\Projects\Design_prog_one_wire_client\Design_prog_one_wire_client\obj\x86\Debug\Design_prog_one_wire_client.csprojResolveAssemblyReference.cache
