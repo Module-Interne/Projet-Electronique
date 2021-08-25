@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programmation 1-wire production", "Programmation 1-wire production\Programmation 1-wire production.csproj", "{F7D54F9F-56AE-463B-904F-ADBEE08AE84A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7DF7EAC5-62AC-4EC7-8FA2-C2D4B79820C1}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7D54F9F-56AE-463B-904F-ADBEE08AE84A}.Debug|x86.ActiveCfg = Debug|x86
+		{F7D54F9F-56AE-463B-904F-ADBEE08AE84A}.Debug|x86.Build.0 = Debug|x86
+		{F7D54F9F-56AE-463B-904F-ADBEE08AE84A}.Release|x86.ActiveCfg = Release|x86
+		{F7D54F9F-56AE-463B-904F-ADBEE08AE84A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23F9C985-C11C-4CDE-AF4E-B4BC4680C57F}
+	EndGlobalSection
+EndGlobal

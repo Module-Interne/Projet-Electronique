@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--USB_Onewire_Adapter-->
+<serie>
+<ID>0</ID>
+<Level>0</Level>
+<Max_Torque>0</Max_Torque>
+<Correction_Coeff>0</Correction_Coeff>
+<Length>0</Length>
+<Flexion_Coeff>0</Flexion_Coeff>
+</serie>

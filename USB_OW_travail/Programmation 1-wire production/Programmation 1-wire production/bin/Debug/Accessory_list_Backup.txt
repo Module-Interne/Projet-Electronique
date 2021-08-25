@@ -1,0 +1,7 @@
+0;Rallonge 100;C:\\Users\\amiramont\\Documents\\Visual Studio 2010\\Projects\\Programmation 1-wire production\\Programmation 1-wire production\\Ressources\\;
+1;Rallonge 200;C:\\Users\\amiramont\\Documents\\Visual Studio 2010\\Projects\\Programmation 1-wire production\\Programmation 1-wire production\\Ressources\\;
+2;Cliquet 100;C:\\Users\\amiramont\\Documents\\Visual Studio 2010\\Projects\\Programmation 1-wire production\\Programmation 1-wire production\\Ressources\\;
+3;Cliquet 200;C:\\Users\\amiramont\\Documents\\Visual Studio 2010\\Projects\\Programmation 1-wire production\\Programmation 1-wire production\\Ressources\\;
+4;Tournevis;C:\\Users\\amiramont\\Documents\\Visual Studio 2010\\Projects\\Programmation 1-wire production\\Programmation 1-wire production\\Ressources\\;
+5;;C:\\Users\\amiramont\\Documents\\Visual Studio 2010\\Projects\\Programmation 1-wire production\\Programmation 1-wire production\\;
+~

@@ -1,0 +1,13 @@
+C:\Users\amiramont\documents\visual studio 2010\Projects\Programmation 1-wire production\Programmation 1-wire production\bin\Release\Programmation 1-wire production.exe
+C:\Users\amiramont\documents\visual studio 2010\Projects\Programmation 1-wire production\Programmation 1-wire production\bin\Release\Programmation 1-wire production.pdb
+C:\Users\amiramont\documents\visual studio 2010\Projects\Programmation 1-wire production\Programmation 1-wire production\obj\x86\Release\Programmation_1_wire_production.Form1.resources
+C:\Users\amiramont\documents\visual studio 2010\Projects\Programmation 1-wire production\Programmation 1-wire production\obj\x86\Release\Programmation_1_wire_production.Form2.resources
+C:\Users\amiramont\documents\visual studio 2010\Projects\Programmation 1-wire production\Programmation 1-wire production\obj\x86\Release\Programmation_1_wire_production.Properties.Resources.resources
+C:\Users\amiramont\documents\visual studio 2010\Projects\Programmation 1-wire production\Programmation 1-wire production\obj\x86\Release\Programmation 1-wire production.csproj.GenerateResource.Cache
+C:\Users\amiramont\documents\visual studio 2010\Projects\Programmation 1-wire production\Programmation 1-wire production\obj\x86\Release\Programmation 1-wire production.exe
+C:\Users\amiramont\documents\visual studio 2010\Projects\Programmation 1-wire production\Programmation 1-wire production\obj\x86\Release\Programmation 1-wire production.pdb
+C:\Users\amiramont\Documents\Visual Studio 2010\Projects\Programmation 1-wire production\Programmation 1-wire production\bin\Release\Programmation 1-wire production.exe.manifest
+C:\Users\amiramont\Documents\Visual Studio 2010\Projects\Programmation 1-wire production\Programmation 1-wire production\bin\Release\Programmation 1-wire production.application
+C:\Users\amiramont\Documents\Visual Studio 2010\Projects\Programmation 1-wire production\Programmation 1-wire production\obj\x86\Release\Programmation_1_wire_production.Form3.resources
+C:\Users\amiramont\Documents\Visual Studio 2010\Projects\Programmation 1-wire production\Programmation 1-wire production\obj\x86\Release\Programmation 1-wire production.exe.manifest
+C:\Users\amiramont\Documents\Visual Studio 2010\Projects\Programmation 1-wire production\Programmation 1-wire production\obj\x86\Release\Programmation 1-wire production.application
